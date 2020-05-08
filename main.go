@@ -7,6 +7,7 @@ import (
 	"github.com/midoblgsm/shoppingcart/resources"
 )
 
+//test
 func main() {
 	cart := cart.NewCart()
 
